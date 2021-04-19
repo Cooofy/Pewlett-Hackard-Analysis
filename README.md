@@ -16,3 +16,10 @@ The purpose of this project to was to determine how many employees were retiring
 4. It’s also surprising that there is not a lot of management personally retiring as we assume that the older or more time you put into the company you would be at a higher position at the end of your time with the company. 
 
 ### Summary
+The exact number of roles that need to be filled is 90,398. The exact break down for each title shows below.
+
+![Retiring Titles](https://github.com/Cooofy/Pewlett-Hackard-Analysis/blob/main/Retiring%20Titles.png)
+
+As we look at the above image, we can clearly see that there is a lot of staff retiring soon, however with the picture below we only have just over 1500 retiring staff eligible to mentor the next generation. With this the company must decide right away if they are going to have each mentor with a huge group which means that some people may not be able to pick or learn the required knowledge to be successful in their career. The company can also adjust its mentorship program so that there are enough mentors to handle all the new staff. However, the company can use this opportunity and see perhaps they do not need as much senior staff or senior engineers and only hire a reduced number. 
+
+![Mentorship Eligibilty](https://github.com/Cooofy/Pewlett-Hackard-Analysis/blob/main/Mentorship%20Eligibilty.PNG)
